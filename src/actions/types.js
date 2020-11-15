@@ -1,0 +1,7 @@
+export const SIGN_IN_TYPE = 'SIGN_IN';
+export const SIGN_OUT_TYPE = 'SIGN_OUT';
+export const CREATE_STREAM_TYPE = 'CREATE_STREAM';
+export const FETCH_STREAMS_TYPE = 'FETCH_STREAMS';
+export const FETCH_STREAM_TYPE = 'FETCH_STREAM';
+export const DELETE_STREAM_TYPE = 'DELETE_STREAM';
+export const EDIT_STREAM_TYPE = 'EDIT_STREAM';
